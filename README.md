@@ -10,5 +10,9 @@
 5. Buatlah layout web sederhana menggunakan css frameword (Twitter Bootsrtap).
 6. Lakukan validasi dokumen html dengan mengakses http://validator.w3.org
 # Langkah-Langkah : 
-# 1. Pertama-tama kita buka dulu buka https://getbootstrap.com dan search seperti gambah dibawah kemudia unduh
+# 1. Pertama-tama kita buka dulu buka https://getbootstrap.com dan search seperti gambah dibawah kemudian unduh
 ![image](https://github.com/user-attachments/assets/1dabd803-3ba7-4cfb-9301-f8c7450088e5)
+# 2. Kemudian Extrak file zip yang sudah di download menjadi folder
+![image](https://github.com/user-attachments/assets/3065551c-5304-4b56-9dd3-109dd85649bc)
+# 3. 
+
